@@ -1,4 +1,4 @@
-# Hi there, I'm Chandra Teja 👋
+# Hi there, I'm Kotha Chandra Teja 👋
 
 ### AI Engineer | Generative AI | Agentic AI | Data Engineering
 
