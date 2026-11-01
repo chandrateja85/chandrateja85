@@ -8,11 +8,12 @@ I'm a Software Engineer passionate about building intelligent applications, scal
 
 My interests lie at the intersection of **Artificial Intelligence and Data Engineering**, with a focus on LLMs, Retrieval-Augmented Generation (RAG), AI Agents, and scalable data processing.
 
-🤖 Working on Agentic AI, Generative AI, and LLM-powered applications
-🧠 Exploring RAG, GraphRAG, Multi-Agent Systems, and LLM Fine-Tuning
-⚡ Experienced in enterprise search, Elasticsearch, and large-scale data processing
-🔍 Interested in AI Engineering, LLM Evaluation, and Model Serving
-🚀 Continuously learning, experimenting, and building with emerging technologies
+- 🤖 Working on **Agentic AI, Generative AI, and LLM-powered** applications.
+- 🧠 Exploring **RAG, GraphRAG, Multi-Agent Systems**, and LLM Fine-Tuning.
+- ⚡ Experienced in **enterprise search, Elasticsearch, and large-scale data processing.**
+- 🔍 Interested in AI Engineering, LLM Evaluation, and Model Serving.
+- 🚀 Continuously learning, experimenting, and building with emerging technologies.
+  
 ---
 
 ## 🛠️ Technical Skills
