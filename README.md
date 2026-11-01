@@ -8,12 +8,11 @@ I'm a Software Engineer passionate about building intelligent applications, scal
 
 My interests lie at the intersection of **Artificial Intelligence and Data Engineering**, with a focus on LLMs, Retrieval-Augmented Generation (RAG), AI Agents, and scalable data processing.
 
-- 💻 Experience in Data Engineering and Search Systems
-- 🤖 Exploring Generative AI, Agentic AI, and LLM applications
-- 🔍 Interested in RAG, GraphRAG, Semantic Search, and AI Agents
-- 🌱 Continuously learning and building practical solutions
-- 🚀 Passionate about solving real-world problems through technology
-
+🤖 Working on Agentic AI, Generative AI, and LLM-powered applications
+🧠 Exploring RAG, GraphRAG, Multi-Agent Systems, and LLM Fine-Tuning
+⚡ Experienced in enterprise search, Elasticsearch, and large-scale data processing
+🔍 Interested in AI Engineering, LLM Evaluation, and Model Serving
+🚀 Continuously learning, experimenting, and building with emerging technologies
 ---
 
 ## 🛠️ Technical Skills
@@ -48,28 +47,12 @@ My interests lie at the intersection of **Artificial Intelligence and Data Engin
 
 ---
 
-## 📂 Projects
-
-- **FastAPI Authentication & Backend Application**
-- **Cultural Fest Management System**
-- **Elasticsearch-Based Search & Data Engineering Workflows**
-
----
-
 ## 🏆 Certifications
 
 - Databricks Certified Data Engineer Associate
 - Microsoft Azure Data Fundamentals (DP-900)
 - MongoDB Associate Data Modeler
 - HackerRank Python & SQL Certifications
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrateja85&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrateja85&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
